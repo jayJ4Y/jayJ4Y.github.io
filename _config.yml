@@ -11,8 +11,7 @@ title: jayJ4Y                          # the main title
 
 tagline: My adventures   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-I really dont know what to post here. Maybe this site is my lifetime long empty. But if I know, I will give it a try...
+description: I really dont know what to post here. Maybe this site is my lifetime long empty. But if I know, I will give it a try...
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jayJ4Y.github.io'
@@ -45,7 +44,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Berlin
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
